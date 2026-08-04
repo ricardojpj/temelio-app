@@ -4,3 +4,4 @@ allure-results/
 allure-report/
 .auth/
 test-results/
+tests/admin/dump_*.spec.ts
